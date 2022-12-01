@@ -1,0 +1,135 @@
+#cursos h1 {
+    position: absolute;
+    width: 260px;
+    height: 70px;
+    left: 80px;
+    top: 200px;
+    font-weight: 700;
+    color: #FF4081;
+    font-size: 60px;
+}
+
+#cursos p {
+    position: absolute;
+    width: 315px;
+    height: 25px;
+    left: 80px;
+    top: 265px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #555555;
+    white-space: nowrap;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+}
+
+#investimentos {
+    margin-top: 300px;
+    margin-left: 112px;
+    margin-bottom: 70px;
+}
+
+#investimentos h2 {
+    position: absolute;
+    width: 510px;
+    height: 40px;
+    left: 545px;
+    top: 400x;
+    font-weight: 700;
+    font-size: 35px;
+    color: #FF4081;
+    
+}
+
+#investimentos p {
+    position: absolute;
+    width: 725px;
+    height: 105px;
+    left: 545px;
+    top: 470px;
+}
+
+#investimentos button {
+    position: absolute;
+    width: 235px;
+    height: 50px;
+    left: 545px;
+    top: 570px;
+    background: #419488;
+    border-radius: 62px;
+    color: #fff;
+}
+
+#poupando {
+    margin-left: 112px;
+    margin-bottom: 70px;
+}
+
+#poupando h2 {
+    position: absolute;
+    width: 375px;
+    height: 40px;
+    left: 545px;
+    top: 850px;
+    font-weight: 700;
+    font-size: 35px;
+    color: #FF4081;
+    
+}
+
+#poupando p {
+    position: absolute;
+    width: 725px;
+    height: 105px;
+    left: 545px;
+    top: 920px;
+}
+
+#poupando button {
+    position: absolute;
+    width: 235px;
+    height: 50px;
+    left: 545px;
+    top: 1020px;
+    background: #419488;
+    border-radius: 62px;
+    color: #fff;
+}
+
+#iniciantes {
+    margin-left: 112px;
+    margin-bottom: 70px;
+}
+
+#iniciantes h2 {
+    position: absolute;
+    width: 425px;
+    height: 40px;
+    left: 545px;
+    top: 1350px;
+    font-weight: 700;
+    font-size: 35px;
+    color: #FF4081;
+    white-space: nowrap;
+}
+
+#iniciantes p {
+    position: absolute;
+    width: 725px;
+    height: 105px;
+    left: 545px;
+    top: 1420px;
+}
+
+#iniciantes button {
+    position: absolute;
+    width: 235px;
+    height: 50px;
+    left: 545px;
+    top: 1520px;
+    background: #419488;
+    border-radius: 62px;
+    color: #fff;
